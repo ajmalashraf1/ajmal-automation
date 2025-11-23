@@ -1,0 +1,1 @@
+Invoice Template: Invoice #: {NUMBER}\nAmount: {AMOUNT}\nPayment link: {PAYMENT_LINK}
