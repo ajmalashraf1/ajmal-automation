@@ -1,1 +1,0 @@
-Proposal: WhatsApp Automation Setup\nScope: WhatsApp bot, Lead capture, Invoice automation, Booking setup\nPrice: ₹2,000 (Basic)
